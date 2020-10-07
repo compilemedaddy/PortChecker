@@ -1,0 +1,7 @@
+C:\Users\Jesper\Documents\GitHub\PortChecker\bin\Debug\PortChecker.exe.config
+C:\Users\Jesper\Documents\GitHub\PortChecker\bin\Debug\PortChecker.exe
+C:\Users\Jesper\Documents\GitHub\PortChecker\bin\Debug\PortChecker.pdb
+C:\Users\Jesper\Documents\GitHub\PortChecker\obj\Debug\PortChecker.csprojAssemblyReference.cache
+C:\Users\Jesper\Documents\GitHub\PortChecker\obj\Debug\PortChecker.csproj.CoreCompileInputs.cache
+C:\Users\Jesper\Documents\GitHub\PortChecker\obj\Debug\PortChecker.exe
+C:\Users\Jesper\Documents\GitHub\PortChecker\obj\Debug\PortChecker.pdb
