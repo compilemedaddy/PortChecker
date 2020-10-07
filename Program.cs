@@ -50,10 +50,12 @@ namespace PortChecker
 
         private static void PortScan()
         {
-           
+            Console.Clear();
+            TcpClient scan = new TcpClient();
+            
             foreach (int s in ports)
             {
-                using (TcpClient scan = new TcpClient())
+                
                 {
                     try
                     {
